@@ -68,6 +68,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Deep Learning with Structured Data](https://www.manning.com/books/deep-learning-with-structured-data) Early access book
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 * [Deep Learning](https://www.deeplearningbook.org/)[Ian Goodfellow, Yoshua Bengio and Aaron Courville]
+* [Deep Learning Patterns and Practices](https://www.manning.com/books/deep-learning-patterns-and-practices)[Andrew Ferlitsch]
 
 ## Natural Language Processing
 
@@ -77,6 +78,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Natural Language Processing in Action](https://www.manning.com/books/natural-language-processing-in-action) Early access book
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) Early access book
 * [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) Early access book
+* [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) Early access book
 
 ## Information Retrieval
 
