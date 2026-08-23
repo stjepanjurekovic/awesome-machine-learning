@@ -2,15 +2,18 @@ The following is a list of free or paid online courses on machine learning, stat
 
 ## Machine-Learning / Data Mining
 
+* [System Designer - ML Systems](https://systemdesigner.net/ml-systems) - Interactive learning platform for ML systems and MLOps with 28 lessons on training pipelines, model serving, feature stores, and monitoring. Includes AI tutor, whiteboards, quizzes, and hands-on projects - free
+* [System Designer - GenAI](https://systemdesigner.net/genai) - Interactive learning platform for GenAI and LLMs with 32 lessons on RAG systems, vector databases, agentic AI, and deployment. Includes AI tutor, whiteboards, quizzes, and projects - free
 * [Artificial Intelligence (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - free
 * [Machine Learning (Columbia University)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-0) - free
 * [Machine Learning (Stanford University)](https://www.coursera.org/learn/machine-learning) - free
-* [Neural Networks for Machine Learning (University of Toronto)](https://www.coursera.org/learn/neural-networks) - free. Also [available on YouTube](https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLYvFQm7QY5Fy28dST8-qqzJjXr83NKWAr) as a playlist. #This course is no longer available on Coursera.
 * [Deep Learning Specialization (by Andrew Ng, deeplearning.ai)](https://www.coursera.org/specializations/deep-learning) - Courses: I Neural Networks and Deep Learning; II Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; III Structuring Machine Learning Projects; IV Convolutional Neural Networks; V Sequence Models; Paid for grading/certification, financial aid available, free to audit
 * [Deep Learning Nano Degree on Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) - $
 * [Intro to Deep Learning (MIT)](http://introtodeeplearning.com/)
 * [Stanford's CS20 Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
-* [fast.ai](https://www.fast.ai/) - deep learning MOOC 
+* [fast.ai](https://www.fast.ai/) - deep learning MOOC
+* [Full-Stack Deep Learning](https://fullstackdeeplearning.com/) 
+* [Amazon's MLU-Explain](https://mlu-explain.github.io/) - Visual, Interactive Explanations of Core Machine Learning Concepts
 * [Machine Learning Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning) - Courses: Machine Learning Foundations: A Case Study Approach, Machine Learning: Regression, Machine Learning: Classification, Machine Learning: Clustering & Retrieval, Machine Learning: Recommender Systems & Dimensionality Reduction,Machine Learning Capstone: An Intelligent Application with Deep Learning; free
 * [Machine Learning Course (2014-15 session) (by Nando de Freitas, University of Oxford)](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - Lecture slides and video recordings.
 * [Learning from Data (by Yaser S. Abu-Mostafa, Caltech)](http://www.work.caltech.edu/telecourse.html) - Lecture videos available
@@ -49,3 +52,23 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Semi-Supervised Deep Learning with GANs for Melanoma Detection](https://www.manning.com/liveproject/semi-supervised-deep-learning-with-gans-for-melanoma-detection) - $
 * [Interpretable AI](https://www.manning.com/books/interpretable-ai) - $
 * [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) - $ Hands-on project
+* [Complete Data Science and ML Course](https://www.scaler.com/data-science-course/) - $
+* [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - free
+* [Introduction to Data-Centric AI (MIT)](https://dcai.csail.mit.edu/) - free
+* [Data science course with placement](https://brainalyst.in/data-science-course-placement-guarantee)
+* [DATA VISUALIZATION COURSE](https://brainalyst.in/data-visualization-courses-online/)
+* [DATA VISUALIZATION PYTHON COURSE](https://brainalyst.in/data-visualization-python/)
+* [DATA SCIENCE WITH R PROGRAMMING](https://brainalyst.in/data-science-with-r/)
+* [DATA SCIENCE WITH PYTHON](https://brainalyst.in/data-science-with-python-course/)
+* [DATA SCIENCE 360 TRAINING COURSE](https://brainalyst.in/data-science-360-training-course/)
+* [BIG DATA & CLOUD COMPUTING COURSE](https://brainalyst.in/big-data-cloud-computing-courses/)
+* [FULL STACK DATA SCIENCE PROGRAM](https://brainalyst.in/full-stack-data-science-course-program/)
+* [Mathematics for Machine Learning Specialization (Imperial College London via Coursera)](https://www.coursera.org/specializations/mathematics-machine-learning?action=enroll) - $ but financial aid available
+* [Machine Learning Engineering for Production (MLOps) Specialization (DeepLearning.ai)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) - $ but financial aid available
+* [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - free
+* [Prompt Engineering for Vision Models on DeepLearningAI](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - free
+* [Data Science Machine Learning Course on Scaler](https://www.scaler.com/courses/data-science-machine-learning-course/) - $
+* [LabEx Machine Learning Skill Tree](https://labex.io/skilltrees/ml) - free and $ Hands-on labs
+* [LLM Evaluation with Opik](https://www.comet.com/site/llm-course/) - free Hands-on labs
+* [Advanced Machine Learning](https://www.trainindata.com/p/advanced-machine-learning) - $ intermediate and advanced courses
+* [IIT Bombay e-Postgraduate Diploma in Artificial Intelligence and Data Science](https://www.mygreatlearning.com/iit-bombay-pg-diploma-ai-data-science) - Online postgraduate diploma covering artificial intelligence, machine learning and data science - $
